@@ -1,0 +1,11 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"C_Disc_D5.0mm_W2.5mm_P5.00mm";1;"0.33μF";;;
+2;"C2";"CP_Radial_D5.0mm_P2.00mm";1;"10μF";;;
+3;"C3";"CP_Radial_D10.0mm_P5.00mm";1;"1000μF";;;
+4;"C4";"C_Disc_D5.0mm_W2.5mm_P5.00mm";1;"0.1μF";;;
+5;"D1";"D_DO-41_SOD81_P10.16mm_Horizontal";1;"D";;;
+6;"D2";"LED_D5.0mm";1;"LED";;;
+7;"J1";"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal";1;"Screw_Terminal_01x02";;;
+8;"J3";"BarrelJack_CUI_PJ-063AH_Horizontal";1;"Barrel_Jack_MountingPin";;;
+9;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"330Ω";;;
+10;"U1";"TO-220-3_Vertical";1;"L7805";;;
