@@ -1,0 +1,57 @@
+Project Overview :-
+
+This project is an embedded safety system designed to detect harmful gas leakage (LPG/Butane) and abnormal temperature levels in real time. It uses an Arduino-based microcontroller system integrated with MQ gas sensor and LM35 temperature sensor to monitor environmental conditions and trigger alerts.
+
+The complete hardware design is developed in KiCad, including schematic and PCB layout for a compact and professional embedded solution.
+
+Working Principle:-
+The MQ gas sensor (MQ-6/MQ-2) detects LPG/gas concentration in the air.
+The LM35 temperature sensor measures ambient temperature.
+Arduino reads both analog signals.
+If thresholds are exceeded:
+🔴 Buzzer activates for gas leakage
+🔵 LED turns ON for high temperature alert'
+
+
+Key Features:-
+Real-time gas leakage detection
+Temperature monitoring system
+Dual alert system (LED + Buzzer)
+Compact PCB design using KiCad
+Arduino-based simple embedded logic
+Low-cost and scalable safety solution
+
+Hardware Used:-
+Arduino UNO
+MQ-6 / MQ-2 Gas Sensor
+LM35 Temperature Sensor
+Buzzer
+LED
+Resistors (10kΩ, 220Ω)
+Custom PCB (Designed in KiCad)
+
+Software Used:-
+KiCad (Schematic + PCB Design)
+Arduino IDE (Programming)
+Embedded C/C++
+
+System Logic:-
+Gas threshold → activates buzzer
+Temperature threshold → activates LED
+Continuous monitoring via analog inputs (A0, A1)
+
+Applications:-
+Home gas leakage detection systems
+Industrial safety monitoring
+Smart kitchen safety systems
+Embedded systems learning project
+IoT safety extension base project
+
+Project Highlights :-
+
+You can include:
+
+KiCad schematic screenshot
+PCB layout image
+3D PCB view
+Working prototype image (if available)
