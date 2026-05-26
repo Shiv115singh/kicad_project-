@@ -1,1 +1,35 @@
+STM32 Demo PCB
+
+A compact STM32-based development and demonstration PCB designed for learning embedded systems, PCB design, and STM32 peripheral interfacing.
+This board includes USB communication, SWD debugging, UART, I2C headers, crystal oscillator, and onboard 3.3V power regulation.
+Features:-
+STM32F103C8T6 MCU
+USB Type-C Interface
+SWD Debug Header
+UART Header
+I2C Header
+3.3V Power Supply
+8MHz Crystal Oscillator
+2-Layer PCB Design
+Tools Used:-
+KiCad
+
+Applications:-
+STM32 Learning
+Embedded Projects
+Sensor Interfacing
+Communication Testing
+PCB Design Practice
+PCB Highlights
+Clean component placement
+USB communication support
+Decoupling capacitors near MCU
+Compact routing
+Separate debugging headers
+
+
+Future Improvements :-
+USB ESD protection
+Better ground plane
+Additional GPIO breakout
 
